@@ -3,6 +3,7 @@
             background-color: yellow;
             border-collapse: collapse;
             width: 100%;
+	 border:1px solid rgb(0, 0, 0);
         }
 
         th, td {
